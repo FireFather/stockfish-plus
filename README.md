@@ -18,7 +18,7 @@ intrinsics available on most CPUs (sse2, avx2, neon, or similar).
 
 ## Stockfish+
 
-This fork is kept up-to-date (merged daily if need be) with the official-stockfish repository...but adds the following features:
+This is Stockfish (1/20/2022)...but adds the following features:
 
 - MCTS/UCT (Monte Carlo Tree Search w/ Upper Confidence Bounds Applied to Trees)
 minimax evaluation w/ AB rollouts
