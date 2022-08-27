@@ -63,7 +63,7 @@ The MCTS implementation is adapted from
 - https://github.com/Kellykinyama12/Montecarlo
 - https://github.com/amchess/BrainLearn
 - https://github.com/amchess/ShashChess
-- 
+
 For more info on MCTS:
 - http://mcts.ai/pubs/mcts-survey-master.pdf
 - http://mcts.ai/pubs/mcts-survey-master.pdf
